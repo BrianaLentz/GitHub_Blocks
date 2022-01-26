@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 250%;
+}
+.container {
+background-color: lightblue;
+display: flex;
+margin-left: 550px;
+margin-right: 550px;
+justify-content:center;
+
+
+}
+.snowoctocat  {
+height: 150px;
+margin-right: 40px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.andycat {
+height: 150px;
+margin-right: 40px;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+.dojocat {
+height: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.container1 {
+    background-color: pink;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+    justify-content:center;
+}
+.monroe {
+height: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 70px;
+}
+.nyantocat {
+height: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+.container2 {
+    background-color: black;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+    justify-content:center;
+}
+.octonaut {
+height: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 40px;
+}
+.spectrocat {
+height: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 40px;
+}
+.xtocat {
+height: 150px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
